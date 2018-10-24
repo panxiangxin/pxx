@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title></title>
-    <url>%2Fpxx.github.io%2F2018%2F10%2F22%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[title:你好！我是潘相鑫你好 这是我第一篇博客。 第一声问候HELLO ＷORLD!]]></content>
+    <title><![CDATA[潘相鑫的博客]]></title>
+    <url>%2Fpxx.github.io%2F2018%2F10%2F23%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[你好 这是我第一篇博客。 第一声问候HELLO ＷORLD!]]></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>npm</tag>
+        <tag>hexo</tag>
+        <tag>github</tag>
+      </tags>
   </entry>
 </search>
