@@ -8,9 +8,9 @@
         <category>Hexo</category>
       </categories>
       <tags>
+        <tag>me</tag>
         <tag>hexo</tag>
         <tag>github</tag>
-        <tag>me</tag>
       </tags>
   </entry>
   <entry>
@@ -21,9 +21,9 @@
         <category>Hexo</category>
       </categories>
       <tags>
-        <tag>npm</tag>
         <tag>hexo</tag>
         <tag>github</tag>
+        <tag>npm</tag>
       </tags>
   </entry>
 </search>
