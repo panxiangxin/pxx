@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[MySchool]]></title>
+    <url>%2Fpxx.github.io%2F2018%2F10%2F31%2FMY-SCHOOL%2F</url>
+    <content type="text"><![CDATA[MY SCHOOL2016年的夏天，我来到了这个美丽的学校，开始了新的学习与生活。]]></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>me</tag>
+        <tag>hexo</tag>
+        <tag>github</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[潘相鑫的博客]]></title>
     <url>%2Fpxx.github.io%2F2018%2F10%2F23%2Fhello-world%2F</url>
     <content type="text"><![CDATA[你好 这是我第一篇博客。 第一声问候HELLO ＷORLD!]]></content>
@@ -8,9 +21,9 @@
         <category>Hexo</category>
       </categories>
       <tags>
-        <tag>npm</tag>
         <tag>hexo</tag>
         <tag>github</tag>
+        <tag>npm</tag>
       </tags>
   </entry>
 </search>
